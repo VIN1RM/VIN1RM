@@ -27,18 +27,19 @@
       <img 
         width="400px" 
         height="165" 
-        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=00000000&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=VIN1RM&show_icons=true&bg_color=00000000&theme=tokyonight&hide_border=true" 
         alt="GitHub stats"
       />
       <img 
         width="400px" 
         height="165" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=00000000&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIN1RM&layout=compact&bg_color=00000000&theme=tokyonight&hide_border=true" 
         alt="Top languages"
       />
     </a>
   </p>
 </div>
+
 
 <!-- ================= TECNOLOGIAS ================= -->
 <div align="center">
@@ -83,7 +84,7 @@
 
 ### Sobre mim 🧠
 
-Software Engineer com foco em **Mobile, Backend e Arquitetura de Software**.  
+Engenheiro de Software com foco em **Mobile, Backend e Arquitetura de Software**.  
 Experiência em **Flutter, React, NestJS e DevOps**, criando soluções **escaláveis, seguras e bem estruturadas**.
 
 Clean Architecture • SOLID • Mobile-first • CI/CD • Segurança
