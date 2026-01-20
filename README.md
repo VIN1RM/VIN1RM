@@ -48,30 +48,24 @@
 
 <div style="display: inline_block"><br/>
 
-<!-- Mobile -->
+<!-- Mobile & Frontend -->
 <img align="center" alt="Flutter" height="48" src="https://skillicons.dev/icons?i=flutter"/>
 <img align="center" alt="React Native" height="48" src="https://skillicons.dev/icons?i=react"/>
-<img align="center" alt="Firebase" height="48" src="https://skillicons.dev/icons?i=firebase"/>
-
-<!-- Frontend -->
 <img align="center" alt="Next.js" height="48" src="https://skillicons.dev/icons?i=nextjs"/>
 
 <!-- Backend -->
-<img align="center" alt="Node.js" height="48" src="https://skillicons.dev/icons?i=nodejs"/>
 <img align="center" alt="NestJS" height="48" src="https://skillicons.dev/icons?i=nestjs"/>
 <img align="center" alt="Python" height="48" src="https://skillicons.dev/icons?i=python"/>
 <img align="center" alt="Java" height="48" src="https://skillicons.dev/icons?i=java"/>
 
 <!-- Database & ORM -->
 <img align="center" alt="PostgreSQL" height="48" src="https://skillicons.dev/icons?i=postgresql"/>
+<img align="center" alt="Firebase" height="48" src="https://skillicons.dev/icons?i=firebase"/>
 <img align="center" alt="Prisma" height="48" src="https://skillicons.dev/icons?i=prisma"/>
 
 <!-- DevOps -->
 <img align="center" alt="Docker" height="48" src="https://skillicons.dev/icons?i=docker"/>
 <img align="center" alt="GitHub Actions" height="48" src="https://skillicons.dev/icons?i=githubactions"/>
-
-<!-- Low-code -->
-<img align="center" alt="PowerApps" height="48" src="https://skillicons.dev/icons?i=powerapps"/>
 
 </div>
 </div>
