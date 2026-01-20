@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=4000&color=FFFFFF&center=true&vCenter=true&width=600&height=64&lines=Olá%2C+eu+sou+Vinícius+Rodrigues!" 
+      src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=4000&color=FFFFFF&center=true&vCenter=true&width=600&height=64&lines=Olá%2C+eu+sou+o+Vinícius+Rodrigues!" 
       alt="Typing SVG"
     />
   </a>
@@ -45,7 +45,7 @@
 <!-- ================= TECNOLOGIAS ================= -->
 <div align="center">
 
-### Tecnologias 🚀
+### TECNOLOGIAS
 
 <div style="display: inline_block"><br/>
 
@@ -76,7 +76,7 @@
 <!-- ================= SOBRE ================= -->
 <div align="center">
 
-### Sobre mim 🧠
+### SOBRE MIM
 
 Engenheiro de Software com atuação no desenvolvimento de soluções digitais, focado em qualidade, escalabilidade e boas decisões arquiteturais.
 Experiência na construção de sistemas seguros, bem estruturados e preparados para evolução contínua.
