@@ -40,6 +40,7 @@
   </p>
 </div>
 
+---
 
 <!-- ================= TECNOLOGIAS ================= -->
 <div align="center">
@@ -56,7 +57,6 @@
 <!-- Backend -->
 <img align="center" alt="NestJS" height="48" src="https://skillicons.dev/icons?i=nestjs"/>
 <img align="center" alt="Python" height="48" src="https://skillicons.dev/icons?i=python"/>
-<img align="center" alt="Java" height="48" src="https://skillicons.dev/icons?i=java"/>
 
 <!-- Database & ORM -->
 <img align="center" alt="PostgreSQL" height="48" src="https://skillicons.dev/icons?i=postgresql"/>
@@ -78,8 +78,8 @@
 
 ### Sobre mim 🧠
 
-Engenheiro de Software com foco em **Mobile, Backend e Arquitetura de Software**.  
-Experiência em **Flutter, React, NestJS e DevOps**, criando soluções **escaláveis, seguras e bem estruturadas**.
+Engenheiro de Software com atuação no desenvolvimento de soluções digitais, focado em qualidade, escalabilidade e boas decisões arquiteturais.
+Experiência na construção de sistemas seguros, bem estruturados e preparados para evolução contínua.
 
 Clean Architecture • SOLID • Mobile-first • CI/CD • Segurança
 
