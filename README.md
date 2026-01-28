@@ -25,7 +25,7 @@
   <table align="center">
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Projetos+Em+Destaque" alt="Projetos"/>
+        <h3><span style="color: #70A5FD;">🚀 Projetos em Destaque</span></h3>
         <p>Confira meu portfólio completo com<br/>projetos reais e cases de sucesso:</p>
         <br/>
         <a href="https://portfolio-vinicius-rodrigues.vercel.app/" target="_blank">
@@ -47,10 +47,10 @@
 
 <!-- ================= TECNOLOGIAS ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Tecnologias" alt="Tecnologias"/>
-  <br/><br/>
 
-<div style="display: inline_block">
+<h3><span style="color: #70A5FD;">Tecnologias</span></h3>
+
+<div style="display: inline_block"><br/>
 
 <!-- Mobile & Frontend -->
 <img align="center" alt="Flutter" height="48" src="https://skillicons.dev/icons?i=flutter"/>
@@ -77,8 +77,8 @@
 
 <!-- ================= SOBRE ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Sobre+Mim" alt="Sobre Mim"/>
-  <br/><br/>
+
+<h3><span style="color: #70A5FD;">Sobre Mim</span></h3>
 
 Engenheiro de Software com atuação no desenvolvimento de soluções digitais, focado em qualidade, escalabilidade e boas decisões arquiteturais.
 Experiência na construção de sistemas seguros, bem estruturados e preparados para evolução contínua.
