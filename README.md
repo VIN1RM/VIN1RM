@@ -52,7 +52,6 @@
 <!-- Mobile & Frontend -->
 <img align="center" alt="Flutter" height="48" src="https://skillicons.dev/icons?i=flutter"/>
 <img align="center" alt="React Native" height="48" src="https://skillicons.dev/icons?i=react"/>
-<img align="center" alt="Next.js" height="48" src="https://skillicons.dev/icons?i=nextjs"/>
 
 <!-- Backend -->
 <img align="center" alt="NestJS" height="48" src="https://skillicons.dev/icons?i=nestjs"/>
@@ -66,6 +65,7 @@
 <!-- DevOps -->
 <img align="center" alt="Docker" height="48" src="https://skillicons.dev/icons?i=docker"/>
 <img align="center" alt="GitHub Actions" height="48" src="https://skillicons.dev/icons?i=githubactions"/>
+<img align="center" alt="Git" height="48" src="https://skillicons.dev/icons?i=git"/>
 
 </div>
 </div>
