@@ -10,8 +10,8 @@
 
 <!-- ================= LINKS ================= -->
 <div align="center">
-  <a href="https://portfolio-vinicius-rodrigues.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://github.com/VIN1RM/VIN1RM/raw/main/Vinicius%20Rodrigues%20-%20Curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CURRÍCULO-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-martins-507690216/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,34 +20,37 @@
 
 ---
 
-<!-- ================= STATS ================= -->
+<!-- ================= PROJETOS + LINGUAGENS ================= -->
 <div align="center">
-  <p>
-    <a href="https://github.com/VIN1RM">
-      <img 
-        width="400px" 
-        height="165" 
-        src="https://github-readme-stats.vercel.app/api?username=VIN1RM&show_icons=true&bg_color=00000000&theme=tokyonight&hide_border=true" 
-        alt="GitHub stats"
-      />
-      <img 
-        width="400px" 
-        height="165" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIN1RM&layout=compact&bg_color=00000000&theme=tokyonight&hide_border=true" 
-        alt="Top languages"
-      />
-    </a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Projetos+Em+Destaque" alt="Projetos"/>
+        <p>Confira meu portfólio completo com<br/>projetos reais e cases de sucesso:</p>
+        <br/>
+        <a href="https://portfolio-vinicius-rodrigues.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/VER_PORTFÓLIO-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img 
+          width="90%" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIN1RM&layout=compact&bg_color=00000000&theme=tokyonight&hide_border=true&langs_count=6" 
+          alt="Top languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <!-- ================= TECNOLOGIAS ================= -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Tecnologias" alt="Tecnologias"/>
+  <br/><br/>
 
-### TECNOLOGIAS
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 
 <!-- Mobile & Frontend -->
 <img align="center" alt="Flutter" height="48" src="https://skillicons.dev/icons?i=flutter"/>
@@ -70,13 +73,12 @@
 </div>
 </div>
 
-
 ---
 
 <!-- ================= SOBRE ================= -->
 <div align="center">
-
-### SOBRE MIM
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=Sobre+Mim" alt="Sobre Mim"/>
+  <br/><br/>
 
 Engenheiro de Software com atuação no desenvolvimento de soluções digitais, focado em qualidade, escalabilidade e boas decisões arquiteturais.
 Experiência na construção de sistemas seguros, bem estruturados e preparados para evolução contínua.
