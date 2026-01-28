@@ -10,9 +10,9 @@
 
 <!-- ================= LINKS ================= -->
 <div align="center">
-  <a href="https://github.com/VIN1RM/VIN1RM/raw/main/Vinicius%20Rodrigues%20-%20Curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CURRÍCULO-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+<a href="https://github.com/VIN1RM/VIN1RM/raw/main/curriculo-vinicius-rodrigues.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CURRÍCULO-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-martins-507690216/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,7 +25,7 @@
   <table align="center">
     <tr>
       <td align="center" valign="middle" width="50%">
-        <h3><span style="color: #70A5FD;">🚀 Projetos em Destaque</span></h3>
+        <h3><span style="color: #70A5FD;">Projetos em Destaque</span></h3>
         <p>Confira meu portfólio completo com<br/>projetos reais e cases de sucesso:</p>
         <br/>
         <a href="https://portfolio-vinicius-rodrigues.vercel.app/" target="_blank">
